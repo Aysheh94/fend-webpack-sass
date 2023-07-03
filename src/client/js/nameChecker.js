@@ -12,5 +12,6 @@ function checkForName(inputText) {
         alert("Welcome, Captain!")
     }
 }
+function onBlur(){}
 
-export { checkForName }
+export { checkForName, onBlur }
